@@ -32,8 +32,8 @@
    From Command line run the following:
    
    ```bash
-   cd <Project Path>
-   python trainer.py
+   cd Face-Reco-openCV
+   python start trainer.py
    ```
    This trainer trains the model over the required steps thats specified inside.It writes the trainer log within the trainer.yml.
    
