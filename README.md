@@ -41,9 +41,10 @@
    
    ![Image1](images/Capture.PNG)
    ![Image2](images/Capture2.PNG)
-   next run the face-detection inside which we have given the path of the image we want to detect.
    
-   python face-detection.py
+   next run the face-recognizer inside which we have given the path of the image we want to detect.
+   
+   python face-recognizer.py
    
    Identify the ROI using the cursor for some image.
 
