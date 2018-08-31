@@ -78,7 +78,7 @@ print("Predicting images...")
 
 #load test images
 # test_img1 = cv2.imread("test-data/test1.jpg")
-test_img2 = cv2.imread("test-data/test6.jpg")
+test_img2 = cv2.imread("test-data/image9.jpg")
 # test_img4 = cv2.imread("test-data/img5.jpg")
 #perform a prediction
 # predicted_img1 = predict(test_img1)

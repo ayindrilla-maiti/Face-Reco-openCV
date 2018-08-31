@@ -123,7 +123,7 @@ print("Total labels: ", len(labels))
 face_recognizer = cv2.face.LBPHFaceRecognizer_create()
 assure_path_exists('trainer/')
 # face_recognizer.save('trainer/trainer.yml')
-for t in range(100000):
+for t in range(50000):
  face_recognizer.train(faces, np.array(labels))
  face_recognizer.save('trainer/trainer.yml')
  print("Executing Training Step :",t)
