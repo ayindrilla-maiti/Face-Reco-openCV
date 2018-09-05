@@ -3,36 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e3485468-e364-483d-9c30-bebd8faec27b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/face-recognizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/face-recognizer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/trainer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_000.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_001.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_002.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_005.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_006.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_007.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_011.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_013.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_023.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_024.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_025.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_026.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_027.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_029.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_031.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_033.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_035.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_036.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_042.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_044.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_051.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_064.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_066.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_069.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_445.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_451.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_466.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_479.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-data/s1/Google_481.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-data/test6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer/trainer.yml" beforeDir="false" afterPath="$PROJECT_DIR$/trainer/trainer.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,20 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="trainer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="trainer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/trainer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="125" column="16" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="16" />
+            <state relative-caret-position="353">
+              <caret line="122" column="54" lean-forward="true" selection-start-line="122" selection-start-column="54" selection-end-line="122" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="face-recognizer.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="face-recognizer.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/face-recognizer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="80" column="40" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
+            <state relative-caret-position="472">
+              <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -69,8 +41,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/face-recognizer.py" />
         <option value="$PROJECT_DIR$/trainer.py" />
+        <option value="$PROJECT_DIR$/face-recognizer.py" />
       </list>
     </option>
   </component>
@@ -168,17 +140,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/face-recognizer.py">
+    <entry file="file://$PROJECT_DIR$/trainer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="80" column="40" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
+        <state relative-caret-position="353">
+          <caret line="122" column="54" lean-forward="true" selection-start-line="122" selection-start-column="54" selection-end-line="122" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trainer.py">
+    <entry file="file://$PROJECT_DIR$/face-recognizer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="125" column="16" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="16" />
+        <state relative-caret-position="472">
+          <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
         </state>
       </provider>
     </entry>
